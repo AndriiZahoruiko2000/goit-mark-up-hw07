@@ -40,14 +40,14 @@
 
 /* clietns */
 
-.clients {
+/* .clients {
   padding: 94px 0;
-}
+} */
 
-.clients-list {
+/* .clients-list {
   display: flex;
   justify-content: center;
-}
+} */
 
 .clients-item {
   width: 170px;
@@ -420,6 +420,3 @@
   display: block;
   margin: 0 auto;
 }
-
-
-aa
